@@ -1,16 +1,3 @@
-#N=int(input('enter a nbr : '))
-#for i in range (1,N+1):
-#  triangle=''
-#  for j in range (i):
-#     triangle=triangle+str(i)
-#  print(str(i)*i)
-
-
-#N=int(input('enter a nbr : '))
-#s=0
-#for i in range (0,N+1):
- #   s=i*10**(i-1)
- #   print(s)
 
 
 def durre(time):
